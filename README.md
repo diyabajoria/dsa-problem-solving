@@ -3,7 +3,7 @@
 
 This repository contains my solutions to Data Structures and Algorithms problems that I solve regularly for practice and interview preparation.
 
-Most of the problems are from :contentReference[oaicite:0]{index=0}, and all solutions are written in Java.
+Most of the problems are from :contentReference[oaicite:0]{index=0}, and maximum solutions are written in Java. I have also coded a few questions in JavaScript and C++.
 
 I started this repository to:
 - stay consistent with DSA
