@@ -72,5 +72,14 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
