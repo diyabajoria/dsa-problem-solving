@@ -3,32 +3,18 @@ class Solution {
         
         int i=0;
         int j=0;
-        int c=0;
-        if(s.length()==0)
-        {
-            return true;
-        }
-        if(t.length()==0)
-        {
-            return false;
-        }
         while(i<s.length() && j<t.length())
         {
             if(s.charAt(i)==t.charAt(j))
             {
                 i++;
                 j++;
-                c++;
-                if(c==s.length())
-                {
-                    return true;
-                }
             }
             else
             {
                 j++;
             }
         }
-        return false;
+        return (i==s.length());
     }
 }
