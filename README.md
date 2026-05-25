@@ -72,6 +72,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
@@ -119,4 +120,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
