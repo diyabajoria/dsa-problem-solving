@@ -72,6 +72,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -102,6 +103,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -113,4 +115,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
