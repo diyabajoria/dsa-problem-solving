@@ -115,6 +115,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +149,5 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0141-linked-list-cycle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0328-odd-even-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
