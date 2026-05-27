@@ -145,4 +145,5 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
