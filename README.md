@@ -83,6 +83,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
@@ -150,4 +151,12 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
