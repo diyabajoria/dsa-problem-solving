@@ -20,21 +20,13 @@ class Solution {
                 {
                     return false;
                 }
-                else if(s1.peek().equals('(') &&ch==')')
+                else if((s1.peek().equals('(') &&ch!=')' ) || (s1.peek().equals('{') &&ch!='}') || (s1.peek().equals('[') &&ch!=']'))
                 {
-                    s1.pop();
-                }
-                else if(s1.peek().equals('{') &&ch=='}')
-                {
-                    s1.pop();
-                }
-                else if(s1.peek().equals('[') &&ch==']')
-                {
-                    s1.pop();
+                    return false;
                 }
                 else
                 {
-                    return false;
+                    s1.pop();
                 }
                 
             }
