@@ -170,6 +170,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,4 +179,9 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0110-balanced-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
