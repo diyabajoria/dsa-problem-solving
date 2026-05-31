@@ -74,6 +74,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -130,12 +131,14 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
