@@ -78,6 +78,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
+| [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -135,6 +136,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
+| [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
