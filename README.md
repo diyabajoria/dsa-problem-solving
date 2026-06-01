@@ -78,6 +78,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -102,6 +103,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## String
@@ -120,6 +122,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -200,4 +203,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0110-balanced-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
