@@ -114,6 +114,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0020-valid-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
+| [0541-reverse-string-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
 ## Two Pointers
@@ -128,6 +129,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
+| [0541-reverse-string-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
