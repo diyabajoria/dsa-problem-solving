@@ -88,6 +88,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
