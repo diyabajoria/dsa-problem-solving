@@ -82,6 +82,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0198-house-robber](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0198-house-robber/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
+| [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -95,6 +96,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0020-valid-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
@@ -163,6 +165,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0001-two-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -235,4 +238,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
