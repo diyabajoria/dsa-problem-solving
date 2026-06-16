@@ -1,10 +1,9 @@
 class Solution {
     public String processStr(String s) {
-        char[] ch=s.toCharArray();
         StringBuilder ns=new StringBuilder();
         for(int i=0;i<s.length();i++)
         {
-            char c=ch[i];
+            char c=s.charAt(i);
             
             if(c=='#')
             {
