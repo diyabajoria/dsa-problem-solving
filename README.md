@@ -108,6 +108,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0541-reverse-string-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
