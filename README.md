@@ -161,6 +161,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1344-angle-between-hands-of-a-clock](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1952-three-divisors](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1952-three-divisors/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,4 +306,5 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1952-three-divisors/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
