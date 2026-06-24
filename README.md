@@ -159,6 +159,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1952-three-divisors](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1952-three-divisors/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -296,4 +297,12 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0148-sort-list/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1952-three-divisors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
