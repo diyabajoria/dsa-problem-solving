@@ -75,6 +75,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0001-two-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -157,6 +158,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -317,4 +319,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
