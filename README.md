@@ -164,6 +164,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
+| [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0189-rotate-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -277,6 +278,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
 | [0137-single-number-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
@@ -334,4 +336,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
