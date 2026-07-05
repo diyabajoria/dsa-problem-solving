@@ -75,6 +75,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0001-two-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
@@ -339,5 +340,6 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
