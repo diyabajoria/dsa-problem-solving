@@ -321,6 +321,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1291-sequential-digits/) | Medium |
 | [1952-three-divisors](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1952-three-divisors/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
