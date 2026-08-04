@@ -101,6 +101,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -291,6 +293,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
