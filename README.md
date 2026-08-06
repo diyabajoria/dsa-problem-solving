@@ -178,6 +178,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1952-three-divisors](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1952-three-divisors/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -331,6 +332,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1291-sequential-digits/) | Medium |
 | [1952-three-divisors](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1952-three-divisors/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
