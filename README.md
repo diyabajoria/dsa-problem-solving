@@ -98,6 +98,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1732-find-the-highest-altitude](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1929-concatenation-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1929-concatenation-of-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -120,6 +121,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0495-teemo-attacking/) | Easy |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
+| [1929-concatenation-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1929-concatenation-of-array/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Binary Search
