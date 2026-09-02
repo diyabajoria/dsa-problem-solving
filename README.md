@@ -108,6 +108,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [3689-maximum-total-subarray-value-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
