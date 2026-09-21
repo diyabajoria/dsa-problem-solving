@@ -297,6 +297,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
 | [0137-single-number-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0461-hamming-distance](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0461-hamming-distance/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
