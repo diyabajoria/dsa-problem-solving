@@ -80,6 +80,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0136-single-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
@@ -295,6 +296,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
+| [0136-single-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0461-hamming-distance](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0461-hamming-distance/) | Easy |
