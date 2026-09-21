@@ -181,6 +181,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -304,6 +305,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0136-single-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0338-counting-bits/) | Easy |
@@ -375,4 +377,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0046-permutations](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
