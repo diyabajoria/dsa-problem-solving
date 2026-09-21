@@ -91,6 +91,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
 | [0495-teemo-attacking](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
@@ -204,12 +205,14 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0198-house-robber](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
@@ -319,6 +322,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0148-sort-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
