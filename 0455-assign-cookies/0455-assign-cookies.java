@@ -4,9 +4,9 @@ class Solution {
         Arrays.sort(s);
         int total=0;
         int i=0,j=0;
-        while(i<g.length && j<s.length)
+        while(i<g.length&&j<s.length)
         {
-            if(s[j]>=g[i])
+            if(g[i]<=s[j])
             {
                 i++;
                 j++;
@@ -17,7 +17,6 @@ class Solution {
                 j++;
             }
         }
-        
         return total;
     }
 }
