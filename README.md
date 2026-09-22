@@ -81,6 +81,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0137-single-number-ii/) | Medium |
@@ -203,6 +204,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0118-pascals-triangle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0198-house-robber/) | Medium |
