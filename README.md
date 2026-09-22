@@ -77,6 +77,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0033-search-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -148,6 +149,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0459-repeated-substring-pattern/) | Easy |
@@ -222,6 +224,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
@@ -319,6 +322,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
