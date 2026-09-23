@@ -6,27 +6,27 @@ class Solution {
         {
             presum+=nums[i];
         }
-        int target=presum-x;
+        int value=presum-x;
         int left=0;
         int sum=0;
-        int maxlen=-1;
+        int max=-1;
         for(int right=0;right<nums.length;right++)
         {
             sum+=nums[right];
-            while(sum>target && left<=right)
+            while(sum>value && left<=right)
             {
                 sum-=nums[left];
                 left++;
             }
-            if(sum==target)
+            if(sum==value)
             {
-                maxlen=Math.max(maxlen,right-left+1);
+                max=Math.max(max,right-left+1);
             }
         }
-        if (maxlen==-1)
+        if (max==-1)
         {
             return -1;
         }
-        return nums.length-maxlen;
+        return nums.length-max;
     }
 }
