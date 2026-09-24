@@ -115,6 +115,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -202,6 +203,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
