@@ -108,6 +108,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1470-shuffle-the-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -229,6 +230,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
@@ -345,6 +347,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0435-non-overlapping-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search Tree
