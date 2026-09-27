@@ -131,6 +131,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
@@ -167,6 +168,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0482-license-key-formatting](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0482-license-key-formatting/) | Easy |
 | [0541-reverse-string-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
@@ -433,4 +435,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
