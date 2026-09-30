@@ -163,6 +163,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -179,6 +180,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0141-linked-list-cycle/) | Easy |
@@ -217,6 +219,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -448,4 +451,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
