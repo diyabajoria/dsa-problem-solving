@@ -101,6 +101,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0495-teemo-attacking](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0704-binary-search/) | Easy |
@@ -251,6 +252,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -267,6 +269,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
