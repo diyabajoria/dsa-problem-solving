@@ -474,5 +474,6 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
