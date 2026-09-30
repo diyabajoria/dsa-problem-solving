@@ -103,6 +103,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0503-next-greater-element-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
@@ -133,6 +134,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0232-implement-queue-using-stacks](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
