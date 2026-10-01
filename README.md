@@ -88,6 +88,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0128-longest-consecutive-sequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0137-single-number-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -232,6 +233,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0118-pascals-triangle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
