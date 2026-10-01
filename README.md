@@ -92,6 +92,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
@@ -264,6 +265,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0128-longest-consecutive-sequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -372,6 +374,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0049-group-anagrams](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -398,6 +401,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -407,6 +411,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -484,4 +489,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
