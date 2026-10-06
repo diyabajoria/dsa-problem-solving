@@ -142,6 +142,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0678-valid-parenthesis-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
 | [0856-score-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
@@ -184,6 +185,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0678-valid-parenthesis-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0856-score-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -257,6 +259,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0678-valid-parenthesis-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -479,6 +482,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
