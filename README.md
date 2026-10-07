@@ -95,6 +95,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -344,6 +345,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0101-symmetric-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -366,6 +368,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0110-balanced-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Bit Manipulation
@@ -453,6 +456,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Backtracking
@@ -496,6 +500,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
