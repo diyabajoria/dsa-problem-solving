@@ -349,6 +349,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,6 +375,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0543-diameter-of-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -521,4 +523,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
