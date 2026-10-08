@@ -352,6 +352,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +379,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +513,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0128-longest-consecutive-sequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,4 +533,5 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
