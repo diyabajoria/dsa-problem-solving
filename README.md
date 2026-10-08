@@ -349,6 +349,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0102-binary-tree-level-order-traversal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
@@ -376,6 +377,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0199-binary-tree-right-side-view](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
@@ -512,6 +514,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Database
@@ -532,6 +535,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
