@@ -84,6 +84,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0056-merge-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0056-merge-intervals/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0136-single-number/) | Easy |
@@ -244,6 +245,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0152-maximum-product-subarray/) | Medium |
