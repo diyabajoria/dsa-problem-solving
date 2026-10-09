@@ -99,6 +99,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -212,6 +213,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0151-reverse-words-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0455-assign-cookies/) | Easy |
