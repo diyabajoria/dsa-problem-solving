@@ -508,6 +508,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
