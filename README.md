@@ -232,6 +232,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0189-rotate-array/) | Medium |
@@ -253,6 +254,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0005-longest-palindromic-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -555,4 +557,8 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0547-number-of-provinces](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
