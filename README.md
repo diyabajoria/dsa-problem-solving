@@ -188,6 +188,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0049-group-anagrams](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0482-license-key-formatting/) | Easy |
@@ -292,6 +293,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
@@ -415,6 +417,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0148-sort-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0435-non-overlapping-intervals/) | Medium |
