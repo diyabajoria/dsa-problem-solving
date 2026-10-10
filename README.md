@@ -74,6 +74,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0048-rotate-image/) | Medium |
@@ -206,6 +207,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0005-longest-palindromic-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
