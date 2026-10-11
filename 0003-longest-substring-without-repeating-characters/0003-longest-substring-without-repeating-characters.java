@@ -16,64 +16,97 @@ class Solution {
         //     max=Math.max(max,r-left+1);
         // }
         // return max;
+        // HashSet<Character> set=new HashSet<>();
+        // int left=0;
+        // int max=0;
+        // for(int right=0;right<s.length();right++)
+        // {
+        //     char ch=s.charAt(right);
+        //     while(set.contains(ch))
+        //     {
+        //         set.remove(s.charAt(left));
+        //         left++;
+        //     }
+        //     set.add(ch);
+        //     max=Math.max(max,right-left+1);
+        // }
+        // return max;
+
+
+
+
+
+
+
+
+
+
+
+
+        // HashSet<Character> set=new HashSet<>();
+        // int left=0;
+        // int maxlen=0;
+        // for(int right=0;right<s.length();right++)
+        // {
+        //     char ch=s.charAt(right);
+        //     while(set.contains(ch))
+        //     {
+        //         set.remove(s.charAt(left));
+        //         left++;
+        //     }
+        //     set.add(ch);
+        //     maxlen=Math.max(maxlen,right-left+1);
+        // }
+        // return maxlen;
+
+
+        // HashSet<Character> set=new HashSet<>();
+        // int left=0;
+        // int maxlen=0;
+        // for(int right=0;right<s.length();right++)
+        // {
+        //     char ch=s.charAt(right);
+        //     while(set.contains(ch))
+        //     {
+        //         set.remove(s.charAt(left));
+        //         left++;
+        //     }
+        //     set.add(ch);
+        //     maxlen=Math.max(maxlen,right-left+1);
+        // }
+        // return maxlen;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         HashSet<Character> set=new HashSet<>();
         int left=0;
-        int max=0;
-        for(int right=0;right<s.length();right++)
+        int min=0;
+        for(int i=0;i<s.length();i++)
         {
-            char ch=s.charAt(right);
+            char ch=s.charAt(i);
             while(set.contains(ch))
             {
                 set.remove(s.charAt(left));
                 left++;
             }
             set.add(ch);
-            max=Math.max(max,right-left+1);
+            min=Math.max(min,i-left+1);
         }
-        return max;
+        return min;
 
-
-
-
-
-
-
-
-
-
-
-
-        // HashSet<Character> set=new HashSet<>();
-        // int left=0;
-        // int maxlen=0;
-        // for(int right=0;right<s.length();right++)
-        // {
-        //     char ch=s.charAt(right);
-        //     while(set.contains(ch))
-        //     {
-        //         set.remove(s.charAt(left));
-        //         left++;
-        //     }
-        //     set.add(ch);
-        //     maxlen=Math.max(maxlen,right-left+1);
-        // }
-        // return maxlen;
-
-
-        // HashSet<Character> set=new HashSet<>();
-        // int left=0;
-        // int maxlen=0;
-        // for(int right=0;right<s.length();right++)
-        // {
-        //     char ch=s.charAt(right);
-        //     while(set.contains(ch))
-        //     {
-        //         set.remove(s.charAt(left));
-        //         left++;
-        //     }
-        //     set.add(ch);
-        //     maxlen=Math.max(maxlen,right-left+1);
-        // }
-        // return maxlen;
     }
 }
