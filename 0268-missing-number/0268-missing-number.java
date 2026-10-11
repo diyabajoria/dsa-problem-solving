@@ -10,14 +10,29 @@ class Solution {
         //   return val-sum;
 
 
-        //approach 2
         int sum=nums.length;
         for(int i=0;i<nums.length;i++)
         {
             sum^=i;
             sum^=nums[i];
-
         }
         return sum;
+
+
+
+
+
+
+
+
+        //approach 2
+        // int sum=nums.length;
+        // for(int i=0;i<nums.length;i++)
+        // {
+        //     sum^=i;
+        //     sum^=nums[i];
+
+        // }
+        // return sum;
     }
 }
