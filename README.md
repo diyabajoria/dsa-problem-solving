@@ -119,6 +119,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0724-find-pivot-index](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0860-lemonade-change](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0860-lemonade-change/) | Easy |
+| [0994-rotting-oranges](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -375,6 +376,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -495,6 +497,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0200-number-of-islands](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0994-rotting-oranges/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
