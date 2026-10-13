@@ -1,12 +1,10 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int m=grid.length;
-        int n=grid[0].length;
         Queue<int []> q=new LinkedList<>();
         int fresh=0;
-        for(int i=0;i<m;i++)
+        for(int i=0;i<grid.length;i++)
         {
-            for(int j=0;j<n;j++)
+            for(int j=0;j<grid[0].length;j++)
             {
                 if(grid[i][j]==1)
                 {
@@ -22,23 +20,22 @@ class Solution {
                 }
             }
         }
-        return bfs(q,grid,fresh);
+        return bfs (fresh, q, grid);
     }
-    int bfs(Queue<int []> q, int [][] grid, int fresh)
+    int bfs(int f, Queue<int []> q,int[][] grid)
     {
         int m=grid.length;
         int n=grid[0].length;
-        int dirs[][]={{-1,0},{1,0},{0,-1},{0,1}};
-        int minute=0;
-
-        while(!q.isEmpty() && fresh>0)
+        int dirs[][]={{-1,0},{1,0},{0,1},{0,-1}};
+        int min=0;
+        while(!q.isEmpty() && f>0)
         {
             int size=q.size();
             for(int i=0;i<size;i++)
             {
-                int cell[]=q.poll();
-                int r=cell[0];
-                int c=cell[1];
+                int cost[]=q.poll();
+                int r=cost[0];
+                int c=cost[1];
                 for(int dir[]:dirs)
                 {
                     int nr=r+dir[0];
@@ -47,16 +44,21 @@ class Solution {
                     {
                         grid[nr][nc]=2;
                         q.add(new int[]{nr,nc});
-                        fresh--;
+                        f--;
                     }
                 }
+                
             }
-            minute++;
+            min++;
+            
         }
-        if(fresh>0)
+        if(f>0)
         {
             return -1;
         }
-        return minute;
+        else
+        {
+            return min;
+        }
     }
 }
