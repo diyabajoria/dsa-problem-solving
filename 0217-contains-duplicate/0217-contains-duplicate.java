@@ -3,13 +3,9 @@ class Solution {
         HashSet<Integer> set=new HashSet<>();
         for(int i:ar)
         {
-            if(set.contains(i))
-            {
-                return true;
-            }
             set.add(i);
         }
-        return false;
+        return !(ar.length==set.size());
 
 
         // HashSet<Integer> set=new HashSet<>();
