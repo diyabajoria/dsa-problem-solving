@@ -208,6 +208,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1221-split-a-string-in-balanced-strings](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2129-capitalize-the-title](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2129-capitalize-the-title/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -313,6 +314,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -333,6 +335,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
@@ -424,6 +427,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0287-find-the-duplicate-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0461-hamming-distance/) | Easy |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
