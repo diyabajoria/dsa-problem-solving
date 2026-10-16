@@ -135,6 +135,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1929-concatenation-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1929-concatenation-of-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [2540-minimum-common-value](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2540-minimum-common-value/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -185,6 +186,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [2540-minimum-common-value](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2540-minimum-common-value/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0680-valid-palindrome-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2540-minimum-common-value](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2540-minimum-common-value/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +320,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2540-minimum-common-value](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
