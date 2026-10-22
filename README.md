@@ -199,6 +199,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0242-valid-anagram](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0392-is-subsequence/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0482-license-key-formatting/) | Easy |
 | [0541-reverse-string-ii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0541-reverse-string-ii/) | Easy |
@@ -313,6 +314,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0268-missing-number](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -328,6 +330,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
