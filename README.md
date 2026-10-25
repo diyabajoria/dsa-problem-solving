@@ -138,6 +138,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [2439-minimize-maximum-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2540-minimum-common-value/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -324,6 +325,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -439,6 +441,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0338-counting-bits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0461-hamming-distance/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
