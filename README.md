@@ -186,6 +186,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0633-sum-of-square-numbers](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2540-minimum-common-value/) | Easy |
@@ -211,6 +212,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -335,6 +337,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0003-longest-substring-without-repeating-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -345,6 +348,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0560-subarray-sum-equals-k](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
