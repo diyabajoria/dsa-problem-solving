@@ -134,6 +134,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1929-concatenation-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2540-minimum-common-value/) | Easy |
@@ -300,6 +301,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1221-split-a-string-in-balanced-strings](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
