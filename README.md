@@ -163,6 +163,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
@@ -171,6 +172,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [0054-spiral-matrix](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0495-teemo-attacking](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0495-teemo-attacking/) | Easy |
 | [0682-baseball-game](https://github.com/diyabajoria/dsa-problem-solving/tree/main/0682-baseball-game/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1929-concatenation-of-array/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -217,6 +219,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1221-split-a-string-in-balanced-strings](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2129-capitalize-the-title](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2129-capitalize-the-title/) | Easy |
 | [3174-clear-digits](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3174-clear-digits/) | Easy |
