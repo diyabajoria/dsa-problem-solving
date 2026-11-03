@@ -11,7 +11,7 @@ class Solution {
         int cheese=0;
         for(int i=0;i<nums.length;i++)
         {
-            cheese+=(Math.abs(mac-nums[i]));
+            cheese+=(mac-nums[i]);
         }
         return cheese;
     }
