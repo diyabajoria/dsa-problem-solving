@@ -143,6 +143,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -350,6 +351,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +365,7 @@ This repository is mainly a way for me to document my learning journey and stay 
 | [1732-find-the-highest-altitude](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/diyabajoria/dsa-problem-solving/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/diyabajoria/dsa-problem-solving/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diyabajoria/dsa-problem-solving/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
