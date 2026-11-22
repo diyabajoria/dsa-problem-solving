@@ -17,24 +17,25 @@ class Solution {
         // }
         // return maxKey;
 
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int i=0;i<nums.length;i++)
-        {
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-        }
-        int maxKey=-1;
-        int maxValue=0;
-        for(Map.Entry<Integer,Integer> e:map.entrySet())
-        {
-            if(e.getValue()>maxValue)
-            {
-                maxValue=e.getValue();
-                maxKey=e.getKey();
-            }
+        // HashMap<Integer,Integer> map=new HashMap<>();
+        // for(int i=0;i<nums.length;i++)
+        // {
+        //     map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+        // }
+        // int maxKey=-1;
+        // int maxValue=0;
+        // for(Map.Entry<Integer,Integer> e:map.entrySet())
+        // {
+        //     if(e.getValue()>maxValue)
+        //     {
+        //         maxValue=e.getValue();
+        //         maxKey=e.getKey();
+        //     }
 
-        }
-        return maxKey;
-
+        // }
+        // return maxKey;
+        Arrays.sort(nums);
+        return nums[nums.length/2];
 
 
 
