@@ -1,5 +1,38 @@
 class Solution {
     public int pivotIndex(int[] nums) {
+
+        int sum=0;
+        int value=0;
+        for(int i=0;i<nums.length;i++)
+        {
+             sum+=nums[i];
+        }
+        for(int i=0;i<nums.length;i++)
+        {
+            int newsum=sum-value-nums[i];
+            if(newsum==value)
+            {
+                return i;
+            }
+            value+=nums[i];
+        }
+        return -1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         // int arrSum=0;
         // for(int i=0;i<nums.length;i++)
         // {
@@ -17,22 +50,22 @@ class Solution {
         //     sum+=nums[i];
         // }
         // return -1;
-        int sum=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            sum+=nums[i];
-        }
-        int pivot=-1;
-        int value=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            int newsum=sum-nums[i]-value;
-            if(newsum==value)
-            {
-                return i;
-            }
-            value+=nums[i];
-        }
-        return -1;
+        // int sum=0;
+        // for(int i=0;i<nums.length;i++)
+        // {
+        //     sum+=nums[i];
+        // }
+        // int pivot=-1;
+        // int value=0;
+        // for(int i=0;i<nums.length;i++)
+        // {
+        //     int newsum=sum-nums[i]-value;
+        //     if(newsum==value)
+        //     {
+        //         return i;
+        //     }
+        //     value+=nums[i];
+        // }
+        // return -1;
     }
 }
